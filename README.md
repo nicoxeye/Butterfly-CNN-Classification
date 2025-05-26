@@ -22,4 +22,9 @@
     g. różne struktury sieci (np. VGG16, ResNet101, InceptionV3, MobileNet) - przygotować raport porównawczy dla każdej sieci (min. 4).
 </pre>
 
+## Good Videos For Learning
+
+ - https://www.youtube.com/watch?v=7HPwo4wnJeA
+
+
 note: i will change it all to english after finishing it :]
