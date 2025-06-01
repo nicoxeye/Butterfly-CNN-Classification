@@ -26,5 +26,12 @@
 
  - https://www.youtube.com/watch?v=7HPwo4wnJeA
 
+## Good Sites For Learning
+
+ - https://www.netguru.com/blog/cnn-optimization
+ - https://www.netguru.com/blog/cnn-optimization
+ - https://www.geeksforgeeks.org/image-classification-using-resnet/
+ - https://github.com/KeithGalli/complete-pandas-tutorial/blob/master/tutorial.ipynb
+
 
 note: i will change it all to english after finishing it :]
