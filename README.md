@@ -18,7 +18,7 @@
     c. dropout - przygotować raport porównawczy z zastosowaniem dropoutu i bez. ✔
     d. dokładanie danych - przygotować raport porównawczy z dołożeniem nowej partii danych i bez. ✔
     e. różne rozmiary wejściowe (np. 96x96, 160x160, 224x224) - przygotować raport porównawczy dla każdego rozmiaru. ✔
-    f. różny rozmiar Batch size (np. 32, 64, 128) - przygotować raport porównawczy dla każdego rozmiaru.
+    f. różny rozmiar Batch size (np. 32, 64, 128) - przygotować raport porównawczy dla każdego rozmiaru. ✔
     g. różne struktury sieci (np. VGG16, ResNet101, InceptionV3, MobileNet) - przygotować raport porównawczy dla każdej sieci (min. 4).
 </pre>
 
